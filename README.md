@@ -38,7 +38,7 @@ Developments in space habitats are paving the way for long-term human presence o
 
 Hydroponics and Closed-Loop Systems: Innovations in sustainable life-support systems, such as hydroponic farming and closed-loop recycling, are essential for survival in extraterrestrial environments.
 
-Challenges in Space Exploration
+**Challenges in Space Exploration**
 
 Despite remarkable progress, significant hurdles remain.
 
