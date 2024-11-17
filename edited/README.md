@@ -1,4 +1,3 @@
-**EDITED VERSION**
 **The Future of Space Exploration: Innovations, Challenges, and Opportunities**
 
 **Abstract**
@@ -13,13 +12,13 @@ Space exploration has progressed significantly since the mid-20th century. Early
 
 This paper aims to:
 
-1. Highlight recent advancements in space technology.
+1. Highlight new progressions in space technology.
 
 
-2. Discuss the challenges faced by modern space exploration.
+2. Discuss the issues faced by modern space exploration.
 
 
-3. Explore potential future opportunities.
+3. Explore potential future opportunities.✓
 
 
 
