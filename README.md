@@ -28,9 +28,9 @@ This paper aims to:
 
 Recent breakthroughs in spacecraft design have made missions more efficient and cost-effective. Lightweight materials, 3D printing, and reusable rocket technology pioneered by SpaceX have drastically reduced launch costs.
 
-Nuclear Propulsion Systems: NASA and other organizations are exploring nuclear thermal and nuclear electric propulsion systems to shorten travel times to distant planets.
+**Nuclear Propulsion Systems:** NASA and other organizations are exploring nuclear thermal and nuclear electric propulsion systems to shorten travel times to distant planets.
 
-Autonomous Navigation: Artificial Intelligence (AI) is revolutionizing spacecraft navigation and landing systems, as demonstrated by the Mars Perseverance rover's autonomous Terrain Relative Navigation.
+**Autonomous Navigation:** Artificial Intelligence (AI) is revolutionizing spacecraft navigation and landing systems, as demonstrated by the Mars Perseverance rover's autonomous Terrain Relative Navigation.
 
 **B. Space Habitation**
 
