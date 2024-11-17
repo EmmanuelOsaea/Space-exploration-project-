@@ -1,12 +1,13 @@
+**EDITED VERSION**
 **The Future of Space Exploration: Innovations, Challenges, and Opportunities**
 
 **Abstract**
 
-Space exploration has always captured humanity's imagination, from the first moon landing to the deployment of the James Webb Space Telescope. As we stand on the cusp of a new era, innovations in technology, international collaborations, and private-sector involvement are revolutionizing the field. This article explores the latest advancements, the challenges faced, and the opportunities awaiting us in space exploration.
+Space exploration has always captured humanity's invention, from the first moon landing to the placement of the James Webb Space Telescope. As we embrace the apex of a modern age, innovations in technology, international collaborations, and private-sector involvement are reforming the field. This article explores the recent advancements, the issues faced, and the opportunities awaiting us in space exploration.✓
 
 **Introduction**
 
-Space exploration has evolved significantly since the mid-20th century. Early missions like Apollo 11 marked humanity's first steps beyond Earth, while modern missions, such as the Perseverance rover on Mars, have shifted the focus to deep space exploration and extraterrestrial habitability. This evolution is driven by technological advancements, an increasing understanding of space's role in Earth's sustainability, and the emergence of commercial space ventures.
+Space exploration has progressed significantly since the mid-20th century. Early missions like Apollo 11 marked human's first steps over Earth, while up-to-date missions, namely the Perseverance rover on Mars, have shifted the focus to deep space exploration and extraterrestrial edibility. This expansion  is driven by technological development, an increasing understanding of space's role in Earth's sustainability, and the originations of commercial space ventures.✓
 
 **Objectives**
 
